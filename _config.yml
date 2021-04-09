@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_avatar:                  "false"
+resume_name:                    "박주언"
+resume_title:                   "컴퓨터공학과 B735206"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
@@ -33,13 +33,13 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_experience:      false
+resume_section_education:       false
+resume_section_projects:        false
+resume_section_skills:          false
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
